@@ -478,13 +478,3 @@ async def help_command(ctx):
 # ============================================================
 
 bot.run(TOKEN)
-```
-
----
-
-**`requirements.txt` atualizado:**
-```
-discord.py>=2.3.0
-yt-dlp>=2024.12.0
-PyNaCl>=1.5.0
-python-dotenv>=1.0.0
